@@ -1,0 +1,12 @@
+div.dashboard-starting-content {
+  border: 5px solid black;
+  padding: 50px;
+  text-align: center;
+  font-size: 30px;
+  margin-top: 75px;
+  margin-bottom: 100px;
+}
+
+.display-4 {
+  margin-top: 30px;
+}
